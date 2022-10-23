@@ -8,6 +8,8 @@ TagManager:
   - Point
   - Game
   - Table
+  - Sharp
+  - Money
   layers:
   - Default
   - TransparentFX
